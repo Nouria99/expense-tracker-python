@@ -1,9 +1,6 @@
 # expense-tracker-python
 A personal expense tracking system built in Python with user login, budgeting, and expense reporting features
 
-
----
-
 ### 🔍 Features
 
 * User registration and login with basic credentials
@@ -13,7 +10,6 @@ A personal expense tracking system built in Python with user login, budgeting, a
 * Generate and save spending reports
 * Data persistence using local JSON files
 
----
 
 ### 🧪 Unit Testing
 
@@ -24,14 +20,12 @@ Unit tests written using Python’s `unittest` module to verify:
 * Budget handling and limits
 * Report generation accuracy
 
----
 
 ### 🛠️ Technologies Used
 
 * **Language**: Python 3
 * **Libraries**: `json`, `datetime`, `os`, `unittest`
 
----
 
 ### 🧠 Skills Demonstrated
 
