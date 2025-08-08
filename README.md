@@ -21,7 +21,7 @@ Unit tests written using Python’s `unittest` module to verify:
 * Budget handling and limits
 * Report generation accuracy
 
-### 🛠 Technologies Used
+### Technologies Used
 
 * **Language**: Python 3
 * **Libraries**: `json`, `datetime`, `os`, `unittest`
