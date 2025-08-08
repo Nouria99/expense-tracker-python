@@ -9,9 +9,8 @@ For testing go to https://github.com/Nouria99/expense-tracker-python/blob/main/t
 * User registration and login with basic credentials
 * Add, update, and delete expenses
 * View expense list with timestamps
-* Set monthly spending limits with alert notifications
+* Set spending limits with alert notifications
 * Generate and save spending reports
-* Data persistence using local JSON files
 
 ###  Unit Testing
 
